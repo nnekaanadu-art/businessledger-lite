@@ -24,5 +24,23 @@ This is an interactive **portfolio prototype**, not production accounting softwa
 ## Product rationale
 The prototype responds to a small business owner's need to distinguish product sales from repair income, track cash and card payments, record expenses, and roll daily results into useful financial summaries. The Lite version prioritizes simple daily workflows over advanced accounting features.
 
-## Portfolio
-[Product Thinking in Practice](https://nnekaanadu-art.github.io/) · [GitHub profile](https://github.com/nnekaanadu-art) · [LinkedIn](https://www.linkedin.com/in/NnekaAnadu)
+
+<!-- UNIVERSAL FOOTER START -->
+
+---
+
+<p align="center">
+  <strong>Product Thinking in Practice</strong>
+</p>
+
+<p align="center">
+  <a href="https://nnekaanadu-art.github.io/">Portfolio Home</a> |
+  <a href="https://www.linkedin.com/in/NnekaAnadu">LinkedIn</a> |
+  <a href="https://github.com/nnekaanadu-art">GitHub</a>
+</p>
+
+<p align="center">
+  © 2026 Nneka Anadu. All rights reserved.
+</p>
+
+<!-- UNIVERSAL FOOTER END -->
